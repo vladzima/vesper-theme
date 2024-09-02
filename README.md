@@ -4,6 +4,19 @@
 
 I'm a big fan of Vesper colors by Rauno Freiberg, design engineer at Vercel with [a plenty of awesome creations](https://rauno.me/projects), so here I either crafted themes with these colors or found ready made ones.
 
+---
+
+- [VS Code](https://github.com/vladzima/vesper-theme/#vs-code)
+- [JetBrains IDEs](https://github.com/vladzima/vesper-theme/#jetbrains-ides)
+- [Zed](https://github.com/vladzima/vesper-theme/#zed)
+- [NeoVim](https://github.com/vladzima/vesper-theme/#neovim)
+- [iTerm](https://github.com/vladzima/vesper-theme/#iterm)
+- [Warp](https://github.com/vladzima/vesper-theme/#warp)
+- [Alacritty](https://github.com/vladzima/vesper-theme/#alacritty)
+- [Tabby](https://github.com/vladzima/vesper-theme/#tabby)
+- [Windows Terminal](https://github.com/vladzima/vesper-theme/#windows-terminal)
+- [Hyper](https://github.com/vladzima/vesper-theme/#hyper-in-works)
+
 ## VS Code
 
 [Vesper.json](https://github.com/vladzima/vesper-theme/blob/main/VSCode/Vesper.json)
