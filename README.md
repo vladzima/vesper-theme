@@ -53,12 +53,23 @@ Courtesy of [Rafael Bardini](https://github.com/alacritty/alacritty-theme/blob/m
 
 Authored by me, [Vlad Arbatov](https://github.com/vladzima)
 
-A little how-to:
+How-to:
 1. Add the contents from `Vesper.yaml` to `.terminal.customColorSchemes[]` in `~/.config/tabby/config.yaml`
 2. Open Tabby settings and focus on 'Color Scheme' section to change the current color scheme
 3. In Tabby settings, focus on 'Appearance' section to set 'Terminal background' to 'From color scheme'
 
 Thanks [Catppuccin](https://github.com/catppuccin) for providing a way for theme integration.
+
+## Windows Terminal
+
+[Vesper.json](https://github.com/vladzima/vesper-theme/blob/main/WindowsTerminal/Vesper.json)
+
+How-to:
+1. Open Windows Terminal settings
+2. Add `Vesper.json` code to schemes
+2. In profiles, find the shell you're using (eg cmd, powershell, ubuntu) and replace `colorScheme` with `Vesper`
+
+Courtesy of [Tom M](https://github.com/atomcorp/themes)
 
 ### Hyper (in works)
 
