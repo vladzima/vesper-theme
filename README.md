@@ -1,5 +1,8 @@
 # Vesper theme for IDEs and terminals
-I'm a big fan of Vesper colors by Rauno Freiberg, design engineer at Vercel with [a plenty of awesome creations](https://rauno.me/projects), so I either crafted themes with these colors or found ready made ones.
+
+![Vesper](https://camo.githubusercontent.com/25c02789fca4be1a9f969fd2805b5f3c6fa4bbd98947e8b0fbe120f68a8c5c35/68747470733a2f2f63646e2e7261756e6f2e6d652f7665737065722d6f672e706e67)
+
+I'm a big fan of Vesper colors by Rauno Freiberg, design engineer at Vercel with [a plenty of awesome creations](https://rauno.me/projects), so here I either crafted themes with these colors or found ready made ones.
 
 ## VS Code
 
