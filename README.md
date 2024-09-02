@@ -14,7 +14,7 @@ Courtesy of [Rauno Freiberg](https://github.com/raunofreiberg/vesper)
 Courtesy of [Vikthor Ferreira](https://plugins.jetbrains.com/plugin/24621-vesperoso)
 
 ## Zed
-#### Rays of love to [Zed](https://zed.dev) btw ❤️
+##### Rays of love to [Zed](https://zed.dev) btw ❤️
 
 [Vesper-Dark.json](https://github.com/vladzima/vesper-theme/blob/main/Zed/Vesper-Dark.json)
 
