@@ -1,7 +1,7 @@
 ;;; doom-vesper-theme.el --- Peppermint and orange flavored dark theme -*- lexical-binding: t; no-byte-compile: t; -*-
 ;;
 ;; Author: Emiel
-;; Source: https://github.com/raunofreiberg/vesper
+;; Source: https://github.com/emielvangoor/vesper-theme
 
 (require 'doom-themes)
 
