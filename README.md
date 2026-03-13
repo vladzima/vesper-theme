@@ -15,6 +15,7 @@ I'm a big fan of Vesper colors by Rauno Freiberg, design engineer at Vercel with
 - [Alacritty](https://github.com/vladzima/vesper-theme/#alacritty)
 - [Tabby](https://github.com/vladzima/vesper-theme/#tabby)
 - [Windows Terminal](https://github.com/vladzima/vesper-theme/#windows-terminal)
+- [Ghostty](https://github.com/vladzima/vesper-theme/#ghostty)
 - [Hyper](https://github.com/vladzima/vesper-theme/#hyper-in-works)
 
 ## VS Code
@@ -84,6 +85,13 @@ How-to:
 
 Courtesy of [Tom M](https://github.com/atomcorp/themes)
 
+## Ghostty
+
+[Vesper.conf](https://github.com/beingfranklin/vesper-ghostty/blob/main/themes/Vesper.conf)
+
+Courtesy of [Franklin](https://github.com/beingfranklin)
+
 ### Hyper (in works)
 
 Requires separate effort.
+
