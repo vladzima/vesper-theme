@@ -64,7 +64,7 @@ Courtesy of [Rafael Bardini](https://github.com/alacritty/alacritty-theme/blob/m
 
 [Vesper.yaml](https://github.com/vladzima/vesper-theme/blob/main/Tabby/Vesper.yaml)
 
-Authored by me, [Vlad Arbatov](https://github.com/vladzima)
+Made by me
 
 How-to:
 1. Add the contents from `Vesper.yaml` to `.terminal.customColorSchemes[]` in `~/.config/tabby/config.yaml`
